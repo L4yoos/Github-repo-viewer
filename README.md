@@ -2,14 +2,14 @@
 <p align="left">A Spring Boot application for viewing GitHub repositories.</p>
 
 <p align="left">
-  <a href="https://github.com/l4yoos/Github-repo-viewer/commits/main">
-    <img src="https://img.shields.io/github/last-commit/l4yoos/Github-repo-viewer" alt="Last Commit">
+  <a href="https://github.com/L4yoos/Github-repo-viewer/commits/main">
+    <img src="https://img.shields.io/github/last-commit/L4yoos/Github-repo-viewer" alt="Last Commit">
   </a>
-  <a href="https://github.com/l4yoos/Github-repo-viewer">
-    <img src="https://img.shields.io/github/languages/top/l4yoos/Github-repo-viewer" alt="Top Language">
+  <a href="https://github.com/L4yoos/Github-repo-viewer">
+    <img src="https://img.shields.io/github/languages/top/L4yoos/Github-repo-viewer" alt="Top Language">
   </a>
-  <a href="https://github.com/l4yoos/Github-repo-viewer">
-    <img src="https://img.shields.io/github/languages/count/l4yoos/Github-repo-viewer" alt="Language Count">
+  <a href="https://github.com/L4yoos/Github-repo-viewer">
+    <img src="https://img.shields.io/github/languages/count/L4yoos/Github-repo-viewer" alt="Language Count">
   </a>
 </p>
 
