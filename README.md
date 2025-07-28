@@ -44,6 +44,7 @@
   <li><a href="#prerequisites">Prerequisites</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
+  <li><a href="#usage">Postman</a></li>
   <li><a href="#testing">Testing</a></li>
   <li><a href="#demo">Demo</a></li>
 </ul>
